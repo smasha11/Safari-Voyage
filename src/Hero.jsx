@@ -61,7 +61,7 @@ const Hero = () => {
               <p className="text-xl mb-8">{slide.description}</p>
               <a
                 href={slide.ctaLink}
-                className="px-6 py-3 bg-blue-600 text-white rounded-full text-lg font-semibold hover:bg-blue-700 transition duration-300"
+                className="px-6 py-3 bg-orange-500 text-white rounded-full text-lg font-semibold hover:bg-orange-500 transition duration-300"
               >
                 {slide.ctaText}
               </a>

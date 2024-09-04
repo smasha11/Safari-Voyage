@@ -33,10 +33,10 @@ const International = () => {
   ];
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-4 py-8 text-center">
       <h1 className="text-4xl font-bold mb-2">
-        <span className="text-black-800">International</span>{' '}
-        <span className="text-orange-500">Destinations</span>
+        <span className="text-black-800 ">International</span>{' '}
+        <span className="text-orange-500 ">Destinations</span>
       </h1>
       <p className="text-gray-700 mb-8 text-lg leading-relaxed max-w-2xl mx-auto">
         Leading Tour Packages Booking website, with over 30,000 hotel rooms worldwide. Book your stays and enjoy your holidays with a distinctive experience.
